@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="260" viewBox="0 0 800 260" role="img" aria-labelledby="title desc">
+  <title id="title">Ana Ramos | Software developer</title>
+  <desc id="desc">Profile banner with a dark background, purple blue and pink glows, and a cat illustration.</desc>
+  <defs>
+    <linearGradient id="base" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#080813"/><stop offset="1" stop-color="#10091b"/></linearGradient>
+    <linearGradient id="name" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#d9c8ff"/><stop offset=".48" stop-color="#7ee7ff"/><stop offset="1" stop-color="#ff88cc"/></linearGradient>
+    <radialGradient id="a"><stop stop-color="#8a2be2" stop-opacity=".6"/><stop offset="1" stop-color="#8a2be2" stop-opacity="0"/></radialGradient>
+    <radialGradient id="b"><stop stop-color="#1450ff" stop-opacity=".5"/><stop offset="1" stop-color="#1450ff" stop-opacity="0"/></radialGradient>
+    <radialGradient id="c"><stop stop-color="#ff2878" stop-opacity=".42"/><stop offset="1" stop-color="#ff2878" stop-opacity="0"/></radialGradient>
+    <filter id="soft"><feGaussianBlur stdDeviation="24"/></filter>
+  </defs>
+  <rect x="1" y="1" width="798" height="258" rx="20" fill="url(#base)" stroke="#7153b5" stroke-opacity=".38"/>
+  <ellipse cx="115" cy="48" rx="190" ry="105" fill="url(#a)" filter="url(#soft)"/><ellipse cx="670" cy="68" rx="160" ry="110" fill="url(#b)" filter="url(#soft)"/><ellipse cx="480" cy="235" rx="220" ry="90" fill="url(#c)" filter="url(#soft)"/>
+  <circle cx="400" cy="115" r="80" fill="none" stroke="#7850ff" stroke-opacity=".20"/><circle cx="400" cy="115" r="118" fill="none" stroke="#50b4ff" stroke-opacity=".12"/>
+  <path d="M45 224 Q205 188 400 220 T755 210" fill="none" stroke="#8a2be2" stroke-opacity=".25"/><path d="M45 36 Q220 62 400 34 T755 42" fill="none" stroke="#50c8ff" stroke-opacity=".20"/>
+  <g fill="#b8dfff" opacity=".85"><circle cx="120" cy="48" r="2"/><circle cx="680" cy="54" r="1.7"/><circle cx="290" cy="205" r="2"/><circle cx="545" cy="31" r="1.7"/><circle cx="160" cy="180" r="2"/><circle cx="650" cy="188" r="1.7"/><circle cx="455" cy="230" r="2"/><circle cx="250" cy="28" r="1.6"/></g>
+  <g text-anchor="middle" font-family="Inter,Segoe UI,Arial,sans-serif">
+    <text x="400" y="83" fill="#7ee7ff" fill-opacity=".75" font-size="13" letter-spacing="5">SOFTWARE DEVELOPER</text>
+    <text x="400" y="143" fill="url(#name)" font-size="52" font-weight="800" letter-spacing="1">Ana Ramos</text>
+    <text x="400" y="174" fill="#c5c2dc" font-size="13" letter-spacing="1.7">MULTIPLATFORM APPLICATIONS · FRONTEND · UI/UX</text>
+  </g>
+  <g transform="translate(659 140)" stroke="#eadcff" stroke-width="3" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M-28 6 L-29-19 L-11-10 Q0-15 11-10 L29-19 L28 6 Q24 27 0 27 Q-24 27-28 6Z" fill="#181329"/><path d="M-19 4 Q-14 0-9 4 M9 4 Q14 0 19 4" fill="none"/><path d="M-4 12 Q0 16 4 12 M0 8v4" fill="none"/><path d="M-26 10L-39 7 M-26 16L-39 18 M26 10L39 7 M26 16L39 18" fill="none" stroke-width="2"/><path d="M-21-14L-13-10 M21-14L13-10" fill="none" stroke="#ff88cc"/>
+  </g>
+  <g font-family="Inter,Segoe UI,Arial,sans-serif" font-size="11" font-weight="600" letter-spacing="1">
+    <rect x="219" y="206" width="105" height="28" rx="14" fill="#0b0a15" stroke="#78c8ff" stroke-opacity=".35"/><text x="271" y="224" text-anchor="middle" fill="#7ee7ff">FRONTEND</text>
+    <rect x="334" y="206" width="82" height="28" rx="14" fill="#0b0a15" stroke="#c878ff" stroke-opacity=".35"/><text x="375" y="224" text-anchor="middle" fill="#e8c8ff">UI/UX</text>
+    <rect x="426" y="206" width="91" height="28" rx="14" fill="#0b0a15" stroke="#ff64b4" stroke-opacity=".35"/><text x="471" y="224" text-anchor="middle" fill="#ff88cc">3D WEB</text>
+    <rect x="527" y="206" width="102" height="28" rx="14" fill="#0b0a15" stroke="#78dc78" stroke-opacity=".35"/><text x="578" y="224" text-anchor="middle" fill="#9ee79e">BRANDING</text>
+  </g>
+</svg>
