@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./.github/assets/header.svg" alt="Ana Ramos, software developer focused on multiplatform apps, frontend and UI/UX" width="800" />
+  <img src="./.github/assets/ana-profile-banner.gif" alt="Ana Ramos, software developer focused on multiplatform apps, frontend and UI/UX" width="800" />
 </p>
 
 <p align="center">
@@ -23,3 +23,5 @@
 <p align="center">
   <img src="./.github/assets/focus.svg" alt="Frontend and UI/UX; multiplatform applications; interactive 3D web and branding" width="800" />
 </p>
+
+
