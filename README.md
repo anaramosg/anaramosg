@@ -1,16 +1,25 @@
-## Hi there 👋
+<p align="center">
+  <img src="./.github/assets/header.svg" alt="Ana Ramos, software developer focused on multiplatform apps, frontend and UI/UX" width="800" />
+</p>
 
-<!--
-**anaramosg/anaramosg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <a href="https://github.com/anaramosg">GitHub · @anaramosg</a>
+</p>
 
-Here are some ideas to get you started:
+### About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <img src="./.github/assets/about.svg" alt="Profile, training and current interests" width="800" />
+</p>
+
+### Tech Stack
+
+<p align="center">
+  <img src="./.github/assets/skills.svg" alt="Java, Kotlin, Python, Dart, SQL, HTML, CSS, Flutter, Unity, Docker, MySQL, Oracle, Git and UI/UX" width="800" />
+</p>
+
+### Areas of Focus
+
+<p align="center">
+  <img src="./.github/assets/focus.svg" alt="Frontend and UI/UX; multiplatform applications; interactive 3D web and branding" width="800" />
+</p>
