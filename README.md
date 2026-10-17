@@ -13,7 +13,7 @@ I’m a second-year Multiplatform Application Development student. I love web an
 </td>
     <td width="40%" align="center" valign="middle">
 
-<img src="assets/about2.gif" alt="Ilustración de Ana" width="100%">
+<img src="assets/about3.gif" alt="Ilustración de Ana" width="100%">
 
 </td>
   </tr>
