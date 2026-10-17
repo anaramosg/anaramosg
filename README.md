@@ -9,7 +9,7 @@
 ## ⭒ About me ⭒
 
 I’m a second-year Multiplatform Application Development student. I love web and app design, and I’m always tinkering with new ways to make interfaces feel fresh and a bit more fun to use. Always learning, always trying something new.
-<img src="assets/imagen.png" width="50%">
+<img src="assets/imagen.png" width="600" height="150">
 </td>
     <td width="40%" align="center" valign="middle">
 
