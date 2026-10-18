@@ -44,3 +44,7 @@ I’m a second-year Multiplatform Application Development student. I love web an
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/anaramosg/anaramosg/output/pacman-contribution-graph.svg">
   <img alt="Pac-Man comiéndose mis contribuciones" src="https://raw.githubusercontent.com/anaramosg/anaramosg/output/pacman-contribution-graph.svg">
 </picture>
+
+<a href="https://www.linkedin.com/in/ana-ramos-gimeno">
+  <img src="https://img.shields.io/badge/LinkedIn-Let's_connect-ff6b6b?style=for-the-badge&logo=linkedin&logoColor=1a1025&labelColor=ffa07a" alt="LinkedIn">
+</a>
