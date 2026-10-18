@@ -20,7 +20,7 @@ I’m a second-year Multiplatform Application Development student. I love web an
   </tr>
 </table>
 
-<img src="https://ghstats.dev/api/sparkline?username=anaramosg&theme=sunset&days=30&width=320&height=106" alt="Contribution Sparkline" /><img src="https://ghstats.dev/api/langs?username=anaramosg&theme=sunset&max_langs=12&layout=horizontal_list" alt="Top Languages" align='right' />
+<img src="https://ghstats.dev/api/sparkline?username=anaramosg&theme=sunset&days=30&width=330&height=106" alt="Contribution Sparkline" /><img src="https://ghstats.dev/api/langs?username=anaramosg&theme=sunset&max_langs=12&layout=horizontal_list" alt="Top Languages" align='right' />
 
 ## Technologies
  
@@ -38,5 +38,3 @@ I’m a second-year Multiplatform Application Development student. I love web an
 
 - Tools & software
 <img src="https://skillicons.dev/icons?i=git,github,docker,gradle,linux,ubuntu,windows,notion" height="50"/>
-
-<img src="https://ghstats.dev/api/sparkline?username=anaramosg&theme=sunset&days=30&width=320&height=80" alt="Contribution Sparkline" />
