@@ -1,5 +1,5 @@
 <p align='center'>
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Software%20Developer&animation=blink&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Hello,%20I'm%20Ana%20Ramos!!&descAlignY=51&descAlign=67&descSize=25"/>
+[    <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Software%20Developer&animation=blink&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Hello,%20I'm%20Ana%20Ramos!!&descAlignY=51&descAlign=67&descSize=25"/>](https://capsule-render.vercel.app/api?type=blur&height=300&color=1a1025&section=header&reversal=false&text=Ana+Ramos&textBg=false&fontColor=ff6b6b&fontSize=70&fontAlign=50&fontAlignY=50&animation=fadeIn&rotate=0&stroke=4a2040&strokeWidth=0&desc=Software+developer+and+Designer&descSize=20&descAlign=53&descAlignY=61)
 </p>
 
 <table>
@@ -38,4 +38,4 @@ I’m a second-year Multiplatform Application Development student. I love web an
 - Tools & software
 <img src="https://skillicons.dev/icons?i=git,github,docker,gradle,linux,ubuntu,windows,notion" height="50"/>
 
-
+<img src="https://ghstats.dev/api/sparkline?username=anaramosg&theme=sunset&days=30&width=320&height=80" alt="Contribution Sparkline" />
