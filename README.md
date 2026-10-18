@@ -4,18 +4,18 @@
 
 <table>
   <tr>
-    <td width="60%" valign="top">
+    <td width="55%" valign="top">
 
 ## ⭒ About me ⭒
 
 I’m a second-year Multiplatform Application Development student. I love web and app design, and I’m always tinkering with new ways to make interfaces feel fresh and a bit more fun to use. Always learning, always trying something new.
 <p align='center'>
-<img src="assets/gato.gif" width="25%">
+<img src="assets/gato.gif" width="15%">
 </p>
 </td>
-    <td width="40%" align="center" valign="middle">
+    <td width="45%" align="center" valign="middle">
 
-<img src="assets/about5.gif" alt="Ilustración de Ana" width="100%">
+<img src="assets/about6.gif" alt="Ilustración de Ana" width="100%">
 
 </td>
   </tr>
