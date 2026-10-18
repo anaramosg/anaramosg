@@ -36,4 +36,6 @@ I’m a second-year Multiplatform Application Development student. I love web an
 <img src="https://skillicons.dev/icons?i=idea,androidstudio,vscode,visualstudio,eclipse,netbeans" height="50"/>
 
 - Tools & software
-<img src="https://skillicons.dev/icons?i=git,github,docker,gradle,linux,ubuntu,windows,notion,discord" height="50"/>
+<img src="https://skillicons.dev/icons?i=git,github,docker,gradle,linux,ubuntu,windows,notion" height="50"/>
+
+
