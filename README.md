@@ -10,7 +10,6 @@
 
 I’m a second-year Multiplatform Application Development student. I love web and app design, and I’m always tinkering with new ways to make interfaces feel fresh and a bit more fun to use. Always learning, always trying something new.
 <p align='center'>
-<img src="assets/gato.gif" width="15%">
 </p>
 </td>
     <td width="45%" align="center" valign="middle">
