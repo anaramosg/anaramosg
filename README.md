@@ -14,11 +14,13 @@ I’m a second-year Multiplatform Application Development student. I love web an
 </td>
     <td width="45%" align="center" valign="middle">
 
-<img src="assets/about6.gif" alt="Ilustración de Ana" width="100%">
+<img src="assets/about6.gif" alt="Ilustración de Ana" width="100%" > 
 
 </td>
   </tr>
 </table>
+
+<img src="https://ghstats.dev/api/sparkline?username=anaramosg&theme=sunset&days=30&width=495&height=106" alt="Contribution Sparkline" /><img src="https://ghstats.dev/api/langs?username=anaramosg&theme=sunset&max_langs=12&layout=horizontal_list" alt="Top Languages" align='right' />
 
 ## Technologies
  
