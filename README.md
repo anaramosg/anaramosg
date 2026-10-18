@@ -38,3 +38,9 @@ I’m a second-year Multiplatform Application Development student. I love web an
 
 - Tools & software
 <img src="https://skillicons.dev/icons?i=git,github,docker,gradle,linux,ubuntu,windows,notion" height="50"/>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/anaramosg/anaramosg/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/anaramosg/anaramosg/output/pacman-contribution-graph.svg">
+  <img alt="Pac-Man comiéndose mis contribuciones" src="https://raw.githubusercontent.com/anaramosg/anaramosg/output/pacman-contribution-graph.svg">
+</picture>
