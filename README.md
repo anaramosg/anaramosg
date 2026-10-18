@@ -20,3 +20,20 @@ I’m a second-year Multiplatform Application Development student. I love web an
 </td>
   </tr>
 </table>
+
+## Technologies
+ 
+- Languages
+<img src="https://skillicons.dev/icons?i=java,kotlin,python,dart,html,css" height="50"/>
+
+- Frameworks & Engines
+<img src="https://skillicons.dev/icons?i=flutter,unity,godot" height="50"/>
+
+- Databases
+<img src="https://skillicons.dev/icons?i=mysql,oracle" height="50"/>
+
+- IDEs
+<img src="https://skillicons.dev/icons?i=idea,androidstudio,vscode,visualstudio,eclipse,netbeans" height="50"/>
+
+- Tools & software
+<img src="https://skillicons.dev/icons?i=git,github,docker,gradle,linux,ubuntu,windows,notion,discord" height="50"/>
