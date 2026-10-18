@@ -22,7 +22,7 @@ I’m a second-year Multiplatform Application Development student. I love web an
 
 <img src="https://ghstats.dev/api/sparkline?username=anaramosg&theme=sunset&days=30&width=330&height=106" alt="Contribution Sparkline" /><img src="https://ghstats.dev/api/langs?username=anaramosg&theme=sunset&max_langs=12&layout=horizontal_list" alt="Top Languages" align='right' />
 
-## Technologies
+## ⭒ Technologies ⭒
  
 - Languages
 <img src="https://skillicons.dev/icons?i=java,kotlin,python,dart,html,css" height="50"/>
@@ -39,12 +39,14 @@ I’m a second-year Multiplatform Application Development student. I love web an
 - Tools & software
 <img src="https://skillicons.dev/icons?i=git,github,docker,gradle,linux,ubuntu,windows,notion" height="50"/>
 
+## ⭒ Contributions ⭒
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/anaramosg/anaramosg/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/anaramosg/anaramosg/output/pacman-contribution-graph.svg">
   <img alt="Pac-Man comiéndose mis contribuciones" src="https://raw.githubusercontent.com/anaramosg/anaramosg/output/pacman-contribution-graph.svg">
 </picture>
 
+## ⭒ Contact me ⭒
 <a href="https://www.linkedin.com/in/ana-ramos-gimeno">
   <img src="https://img.shields.io/badge/LinkedIn-Let's_connect-ff6b6b?style=for-the-badge&logo=linkedin&logoColor=1a1025&labelColor=ffa07a" alt="LinkedIn">
 </a>
